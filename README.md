@@ -6,6 +6,9 @@
 - I am studying Game Development
 - I like to stay up to date with hardware releases
 
+## 🕹 Game Development 🕹
+<img style="margin-left: 5px;margin-right: 5px" align="center" alt="html5" src="images/3799048.jpg" width="100%" height="400" /> 
+
 ## Technologies
 <div style="display: inline_block; margin-top: 3.8%;">
     <img style="margin-left: 5px;margin-right: 5px" align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />      
@@ -19,8 +22,7 @@
     <img style="margin-left: 5px;margin-right: 5px" align="center" alt="postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />
     <img style="margin-left: 5px;margin-right: 5px" align="center" alt="unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40" />
     <img style="margin-left: 5px;margin-right: 5px" align="center" alt="godot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" height="40" />
-    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
-                  
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />              
 </div> 
 
 ##     
