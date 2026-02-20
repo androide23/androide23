@@ -1,14 +1,27 @@
-## Hi there, /i'm androide23 👋
+## Hi there, i'm Willian - [androide23] 🎮
 
-**androide23/androide23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Systems Analyst, Gamer, Musician, and Manga Reader 😜
+- I currently work as a Systems Analyst
+- I have a degree in Computer Science
+- I am studying Game Development
+- I like to stay up to date with hardware releases
 
-Here are some ideas to get you started:
+## Technologies
+<div style="display: inline_block; margin-top: 3.8%;">
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />      
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />      
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />      
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" />    
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  width="40" height="40" />
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="sql-server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40" />
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" />
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40" />
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="godot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" height="40" />
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
+                  
+</div> 
 
-- 🔭 I’m currently working on my own game project
-- 🌱 I’m currently learning game development
-- 👯 I’m looking to collaborate on various projects
-- 🤔 I’m looking for help with game development concepts
-- 💬 Ask me about game development and java projects
+##     
 - 📫 How to reach me: willian12garcia@gmail.com
-
-Realizando um novo commit.
