@@ -25,16 +25,16 @@
     <img style="margin-left: 5px;margin-right: 5px" align="center" alt="c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />              
 </div> 
 
-## About me
+## About Me
 It all started with a child who used to watch his parents playing games on that old tube-screen computer, games like:
 
-- xena
-- top gear
-- aero fighter
-- The bruce lee story
-- metal slug
-- final fight 
-- among others from the **SNES** and **Nintendo64 emulator** 
+- Xena
+- Top Gear
+- Aero Fighter
+- The Bruce Lee Story
+- Metal Slug
+- Final Fight 
+- Among others from the **SNES** and **Nintendo64 emulator** 
 
 Over time, I fell in love with FPS games in the style of Counter-Strike and similar competitive titles (Crossfire, Point Blank, Sudden Attack, etc.).
 
