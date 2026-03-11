@@ -1,4 +1,6 @@
-## Hi there, i'm Willian - [androide23] 🎮
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&color=1AF7ED&width=600&lines=Hi+there%2C+i'm+Willian+-+%5Bandroide23%5D+%F0%9F%8E%AE)](https://git.io/typing-svg)
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
 
 ## I am a Systems Analyst, Gamer, Musician, and Manga Reader 😜
 - I currently work as a Systems Analyst
@@ -6,10 +8,10 @@
 - I am studying Game Development
 - I like to stay up to date with hardware releases
 
-## 🕹 Game Development 🕹
+## <img style="margin-left: 5px;margin-right: 5px" align="center" alt="html5" src="images/joystick.gif" width="4%" /> Game Development <img style="margin-left: 5px;margin-right: 5px" align="center" alt="html5" src="images/joystick.gif" width="4%" />
 <img style="margin-left: 5px;margin-right: 5px" align="center" alt="html5" src="images/3799048.jpg" width="100%" height="400" /> 
 
-## Technologies
+## <img style="margin-left: 5px;margin-right: 5px" align="center" alt="html5" src="images/software.gif" width="4%" /> Programming Languages and Tools
 <div style="display: inline_block; margin-top: 3.8%;">
     <img style="margin-left: 5px;margin-right: 5px" align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />      
     <img style="margin-left: 5px;margin-right: 5px" align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />      
@@ -19,10 +21,9 @@
     <img style="margin-left: 5px;margin-right: 5px" align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
     <img style="margin-left: 5px;margin-right: 5px" align="center" alt="sql-server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40" />
     <img style="margin-left: 5px;margin-right: 5px" align="center" alt="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" />
-    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40" />
-    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="godot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" height="40" />
-    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />              
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+                
 </div> 
 
 ## About Me
@@ -47,6 +48,11 @@ While studying Computer Science in college, I started working as a Systems Analy
 Today, after experiencing various game genres, I want to make game development another hobby in my life and to be able to create games from ideas that occasionally come to my mind and, if possible, collaborate on projects that can bring me more knowledge or even extra income.
 
 Finally, my main goal with games at the moment is to be able to include ideas that promote joy and companionship through the moments they can provide to those who are playing.
+
+## <img style="margin-left: 5px;margin-right: 5px" align="center" alt="html5" src="images/stats.gif" width="4%" /> My Github Stats
+
+### Profile Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=androide23&show_icons=true&theme=dracula)
 
 ##     
 - 📫 How to reach me: willian12garcia@gmail.com
