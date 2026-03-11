@@ -26,7 +26,7 @@
                 
 </div> 
 
-## About Me
+## <img style="margin-left: 5px;margin-right: 5px" align="center" alt="html5" src="images/person.gif" width="4%" />About Me
 It all started with a child who used to watch his parents playing games on that old tube-screen computer, games like:
 
 - Xena
@@ -51,8 +51,12 @@ Finally, my main goal with games at the moment is to be able to include ideas th
 
 ## <img style="margin-left: 5px;margin-right: 5px" align="center" alt="html5" src="images/stats.gif" width="4%" /> My Github Stats
 
-### Profile Stats
+### <img style="margin-left: 5px;margin-right: 5px" align="center" alt="html5" src="images/computer.gif" width="4%" /> Profile Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=androide23&show_icons=true&theme=dracula)
+
+### <img style="margin-left: 5px;margin-right: 5px" align="center" alt="html5" src="images/globe.gif" width="4%" /> Streaks
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=androide23&theme=dark&hide_border=false)
+
 
 ##     
 - 📫 How to reach me: willian12garcia@gmail.com
