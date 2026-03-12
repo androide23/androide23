@@ -16,29 +16,34 @@
 ## <img style="margin-left: 5px;margin-right: 5px" align="center" alt="software" src="images/software.gif" width="4%" /> Technologies
 
 ### <img style="margin-left: 5px;margin-right: 5px" align="center" alt="terminal" src="images/terminal.gif" width="3%" /> Programming and Markup Languages
-<img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-<img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-<img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
-<img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-<img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
+<p>
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
+    <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
+</p>
 
 ### <img style="margin-left: 5px;margin-right: 5px" align="center" alt="server" src="images/server.gif" width="3%" /> Databases
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
-<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-003B57.svg?logo=sqlite&logoColor=white">
-<img alt="SQL Server" src ="https://img.shields.io/badge/Sql_Server-316192.svg?logoColor=white">
+<p>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
+    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+    <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-003B57.svg?logo=sqlite&logoColor=white">
+    <img alt="SQL Server" src ="https://img.shields.io/badge/Sql_Server-316192.svg?logoColor=white">
+</p>
 
 ### <img style="margin-left: 5px;margin-right: 5px" align="center" alt="fork" src="images/fork.gif" width="3%" /> Software and Tools
-<img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white">
-<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-<img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?logo=eclipse-ide&logoColor=white">
-<img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepadplusplus&logoColor=black">
- 
+<p>
+    <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+    <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?logo=eclipse-ide&logoColor=white">
+    <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepadplusplus&logoColor=black">
+</p>
 
 ## <img style="margin-left: 5px;margin-right: 5px" align="center" alt="html5" src="images/person.gif" width="4%" />About Me
 It all started with a child who used to watch his parents playing games on that old tube-screen computer, games like:
