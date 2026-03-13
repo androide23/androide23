@@ -9,7 +9,11 @@
 - I like to stay up to date with hardware releases
 
 ## <img style="margin-left: 5px;margin-right: 5px" align="center" alt="joystick" src="images/joystick.gif" width="4%" /> Game Development <img style="margin-left: 5px;margin-right: 5px" align="center" alt="joystick" src="images/joystick.gif" width="4%" />
-<img style="margin-left: 5px;margin-right: 5px" align="center" alt="html5" src="images/3799048.jpg" width="100%" height="400" /> 
+
+<p align="center">
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="unity" src="images/unity.png" width="15%" />
+    <img style="margin-left: 5px;margin-right: 5px" align="center" alt="godot" src="images/godot.png" width="15%" /> 
+</p>
 
 ### <img style="margin-left: 5px;margin-right: 5px" align="center" alt="joystick" src="images/target.gif" width="3%" /> Turning ideas into worlds through persistence and dedication.
 
